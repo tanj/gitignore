@@ -1,0 +1,9 @@
+#
+# Autodesk Inventor Ignores
+#
+lockfile.lck
+OldVersions/
+pdf/
+*.pdf
+*.tmp
+*.png
