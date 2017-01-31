@@ -1,0 +1,11 @@
+#
+# Autodesk AutoCAD Ignores
+#
+
+# Ignore backups
+*.bak
+*.dwl
+*.dwl2
+
+# Ignore logs
+*.log
